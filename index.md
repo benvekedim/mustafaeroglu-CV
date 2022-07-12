@@ -1,5 +1,5 @@
 ## Mustafa-Eroğlu-CV
 
 
-![img](/CV.png)
+![img](./CV.png)
 
