@@ -1,5 +1,7 @@
 ## Mustafa-Eroğlu-CV
 
 
-![img](./CV.png)
+# ![img](./CV.png)
+
+![pdf](./resume.pdf)
 
